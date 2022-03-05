@@ -12,6 +12,10 @@
   
 ![alt text](https://github.com/viktorvano/STM32-IoT-Drain/blob/main/Documents/detail.jpg?raw=true)  
   
+![alt text](https://github.com/viktorvano/STM32-IoT-Drain/blob/main/Documents/web_open.png?raw=true)  
+  
+![alt text](https://github.com/viktorvano/STM32-IoT-Drain/blob/main/Documents/web_closed.png?raw=true)  
+  
 ## Code Snippets
   
 [STM32 C code] You have to change your WiFi SSID credentials and servo parameters:  
