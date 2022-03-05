@@ -6,15 +6,6 @@
   
 ![alt text](https://github.com/viktorvano/STM32-IoT-Drain/blob/main/Documents/schematic.png?raw=true)  
   
-### Photos  
-  
-![alt text](https://github.com/viktorvano/STM32-IoT-Drain/blob/main/Documents/setup.jpg?raw=true)  
-  
-![alt text](https://github.com/viktorvano/STM32-IoT-Drain/blob/main/Documents/detail.jpg?raw=true)  
-  
-![alt text](https://github.com/viktorvano/STM32-IoT-Drain/blob/main/Documents/web_open.png?raw=true)  
-  
-![alt text](https://github.com/viktorvano/STM32-IoT-Drain/blob/main/Documents/web_closed.png?raw=true)  
   
 ## Code Snippets
   
@@ -61,3 +52,15 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```  
+  
+  
+### Photos  
+  
+![alt text](https://github.com/viktorvano/STM32-IoT-Drain/blob/main/Documents/web_open.png?raw=true)  
+  
+![alt text](https://github.com/viktorvano/STM32-IoT-Drain/blob/main/Documents/web_closed.png?raw=true)  
+  
+![alt text](https://github.com/viktorvano/STM32-IoT-Drain/blob/main/Documents/setup.jpg?raw=true)  
+  
+![alt text](https://github.com/viktorvano/STM32-IoT-Drain/blob/main/Documents/detail.jpg?raw=true)  
+  
