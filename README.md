@@ -64,3 +64,5 @@ public class MainActivity extends AppCompatActivity {
   
 ![alt text](https://github.com/viktorvano/STM32-IoT-Drain/blob/main/Documents/detail.jpg?raw=true)  
   
+![alt text](https://github.com/viktorvano/STM32-IoT-Drain/blob/main/Documents/App.jpg?raw=true)  
+  
