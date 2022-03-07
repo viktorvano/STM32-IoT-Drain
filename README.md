@@ -1,5 +1,6 @@
 # STM32-IoT-Drain
- IoT Smart Drain that uses STM32, ESP8266 and a servo.
+ IoT Smart Drain that uses STM32, ESP8266 and a servo.  
+ [YouTube Video](https://www.youtube.com/watch?v=bjgvxr_YlN0)  
   
   
 ### Wiring Diagram  
