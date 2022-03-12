@@ -14,7 +14,7 @@
 ```C
 #define WiFi_Credentials	"AT+CWJAP=\"WiFiSSID\",\"WiFiPASSWORD\"\r\n"
 #define PWM_OPEN			0x700
-#define PWM_CLOSED			0x620
+#define PWM_CLOSED			0x650
 ```    
   
 [Android Studio - Java]
