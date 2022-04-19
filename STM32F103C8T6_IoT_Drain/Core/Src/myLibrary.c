@@ -93,10 +93,12 @@ void messageHandler()
 	}else if((position = string_contains((char*)buffer, "GET", buffer_index)) != -1)
 	{
 		sendData();
-	}else if((position = string_contains((char*)buffer, "OPEN DRAIN", buffer_index)) != -1)
+	}else if((position = string_contains((char*)buffer, "OPEN DRAIN", buffer_index)) != -1
+			||(position = string_contains((char*)buffer, "open drain", buffer_index)) != -1)
 	{
 		openDrain();
-	}else if((position = string_contains((char*)buffer, "CLOSE DRAIN", buffer_index)) != -1)
+	}else if((position = string_contains((char*)buffer, "CLOSE DRAIN", buffer_index)) != -1
+			||(position = string_contains((char*)buffer, "close drain", buffer_index)) != -1)
 	{
 		closeDrain();
 	}else if(string_contains((char*)buffer, "+CWJAP:", buffer_index) != -1
