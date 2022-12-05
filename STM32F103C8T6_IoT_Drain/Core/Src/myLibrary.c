@@ -94,11 +94,15 @@ void messageHandler()
 	{
 		sendData();
 	}else if((position = string_contains((char*)buffer, "OPEN DRAIN", buffer_index)) != -1
-			||(position = string_contains((char*)buffer, "open drain", buffer_index)) != -1)
+			||(position = string_contains((char*)buffer, "open drain", buffer_index)) != -1
+			||(position = string_contains((char*)buffer, "open_drain", buffer_index)) != -1
+			||(position = string_contains((char*)buffer, "OPEN_DRAIN", buffer_index)) != -1)
 	{
 		openDrain();
 	}else if((position = string_contains((char*)buffer, "CLOSE DRAIN", buffer_index)) != -1
-			||(position = string_contains((char*)buffer, "close drain", buffer_index)) != -1)
+			||(position = string_contains((char*)buffer, "close drain", buffer_index)) != -1
+			||(position = string_contains((char*)buffer, "close_drain", buffer_index)) != -1
+			||(position = string_contains((char*)buffer, "CLOSE_DRAIN", buffer_index)) != -1)
 	{
 		closeDrain();
 	}else if(string_contains((char*)buffer, "+CWJAP:", buffer_index) != -1

@@ -65,6 +65,7 @@ void Error_Handler(void);
 #define ESP_RESET_GPIO_Port GPIOB
 #define ESP_ENABLE_Pin GPIO_PIN_4
 #define ESP_ENABLE_GPIO_Port GPIOB
+
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
